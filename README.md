@@ -12,5 +12,9 @@ Users enter a text statement. The statement is then analyzed, and an emotion is 
 6. run ```flutter run```
 
 
+## Upcoming Progress
+In the upcoming weeks, this project will be containerized via Docker.
+
+
 
 
